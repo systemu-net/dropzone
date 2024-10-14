@@ -1,25 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # dropzone
+
+Playground for Dropzone.js library in Rails
+
+## [License](LICENSE.md)
+
+MIT © [Sergii Demianchuk](https://github.com/ndemianc)
+
+## Contributors
+
+<a href="https://github.com/systemu-net/systemu-net/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=systemu-net/systemu-net" />
+</a>
